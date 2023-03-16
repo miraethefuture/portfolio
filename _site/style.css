@@ -908,7 +908,7 @@ body {
     background-color: #fed136;
 }
 .team-member {
-    max-width: 320px;
+    width: 320px;
     float: center;
     margin-left:auto;
     margin-right:auto;
