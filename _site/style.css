@@ -874,4 +874,18 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 
+.row
+{
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.col-md-4
+{
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+}
 
