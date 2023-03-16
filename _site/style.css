@@ -908,8 +908,11 @@ body {
     background-color: #fed136;
 }
 .team-member {
-    margin-bottom: 50px;
-    text-align: center;
+    max-width: 320px;
+    float: center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 30px;
 }
 
 
