@@ -9,16 +9,16 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Mirae Jung
   pic: 1
-  position: Lead Designer
+  position: iOS Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: github
+      url: #https://github.com/miraethefuture
+    - title: envelope
+      url: #mirae2thefuture@gmail.com
+    - title: vimeo-square
+      url: #https://velog.io/@fitf_
 
 #- name: Larry Parker
 #  pic: 2
