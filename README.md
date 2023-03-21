@@ -6,12 +6,16 @@ MyBox는 집에 어떤 물건을 가지고 있는지 일일이 다 기억하지 
 MyBox를 사용하여 집 안의 모든 보관함을 체계적으로 정리하고 관리하세요.
 
 🛠️ 기술 스택: SwiftUI, MV(Model-View)
+📱 iPhone / iPad
 
 <img src="/img/portfolio/MyBox-Navi.png" alt="MyBox-Navi.png" width="100%">
 <img src="/img/portfolio/MyBox-Features.png" alt="MyBox-Features.png" width="100%">
-<video src="/img/portfolio/DarkMode.mov"></video>
-<video src="/img/portfolio/iPad-Simulator.mov"></video>
-<video src="https://user-images.githubusercontent.com/85061148/196460314-4cc2b2ea-3c89-48af-9718-758e2d3f89e6.mov" controls="controls" style="max-width: 600px">
+- Dark Mode
+<video src="https://user-images.githubusercontent.com/85061148/226686973-6539cbc4-c94c-4bdd-8294-626e6ecc2ac2.mov" controls="controls" style="max-width: 100%">
 </video>
+- iPad
+<video src="https://user-images.githubusercontent.com/85061148/226687392-2b930e6c-4e75-4898-ab74-d0d98d8da39e.mov" controls="controls" style="max-width: 100%">
+</video>
+
 
 
