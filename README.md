@@ -11,5 +11,7 @@ MyBox를 사용하여 집 안의 모든 보관함을 체계적으로 정리하�
 <img src="/img/portfolio/MyBox-Features.png" alt="MyBox-Features.png" width="100%">
 <video src="/img/portfolio/DarkMode.mov"></video>
 <video src="/img/portfolio/iPad-Simulator.mov"></video>
+<video src="https://user-images.githubusercontent.com/85061148/196460314-4cc2b2ea-3c89-48af-9718-758e2d3f89e6.mov" controls="controls" style="max-width: 600px">
+</video>
 
 
