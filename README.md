@@ -1,4 +1,3 @@
-<a name="custom_anchor_name"></a>
 # MyBox
 
 <img src="/img/portfolio/MyBox_main.png" alt="MyBox_main.png" width="100%">
