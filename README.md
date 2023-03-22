@@ -12,7 +12,7 @@ MyBox를 사용하여 집 안의 모든 보관함을 체계적으로 정리하�
 <img src="/img/portfolio/MyBox-Navi.png" alt="MyBox-Navi.png" width="100%">
 <img src="/img/portfolio/MyBox-Features.png" alt="MyBox-Features.png" width="100%">
 
-Dark Mode
+## Dark Mode
 <video src="https://user-images.githubusercontent.com/85061148/226686973-6539cbc4-c94c-4bdd-8294-626e6ecc2ac2.mov" controls="controls" style="max-width: 100%">
 </video>
   
