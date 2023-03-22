@@ -16,7 +16,7 @@ MyBox를 사용하여 집 안의 모든 보관함을 체계적으로 정리하�
 <video src="https://user-images.githubusercontent.com/85061148/226686973-6539cbc4-c94c-4bdd-8294-626e6ecc2ac2.mov" controls="controls" style="max-width: 100%">
 </video>
   
-iPad
+## iPad
 <video src="https://user-images.githubusercontent.com/85061148/226687392-2b930e6c-4e75-4898-ab74-d0d98d8da39e.mov" controls="controls" style="max-width: 100%">
 </video>
 
